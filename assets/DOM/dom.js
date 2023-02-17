@@ -18,5 +18,7 @@ for (let i = 0; i < all_cards; i++) {
     let card_title=card.querySelector('.card-title')
     let card_text=card.querySelector('.card-text')
 
-    if(series['serie_'+i])
+    if(series['serie_'+i]){
+        //no c
+    }
 }
